@@ -1,0 +1,10 @@
+Passo 1: Baixe a versão mais recente do python, certifique-se de selecionar as duas caixinhas antes de clicar em instalar.
+
+Passo 2: Executando o arquivo instalador.bat basta clicar duas vezes nele para executá-lo.
+
+Passo 3: Aguardando a instalação Aguarde até que a instalação das dependências seja concluída. Uma janela do prompt de comando será aberta durante o processo.
+
+Passo 4: Confirmação da instalação. Após a instalação bem-sucedida, a janela do prompt de comando será fechada automaticamente, e as dependências estarão prontas para serem utilizadas em seus projetos.
+Com esses passos simples, você poderá baixar e instalar todas as dependências com apenas um clique no arquivo instalador.bat.
+
+Passo 5: Execute o arquivo clean.py clicando duas vezes nele, após iniciar escreva clear e envie para apagar as mensagens daquele chat. 
